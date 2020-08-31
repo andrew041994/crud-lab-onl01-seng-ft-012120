@@ -4,7 +4,13 @@ export default class Test extends Component {
   render() {
     return (
       <div> 
-          <button>press for action</button>
+
+          <link to="www.youtube.com">
+          
+          <button >press for action</button>
+          </link>
+
+
       </div>
     );
   }
